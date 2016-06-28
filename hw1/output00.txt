@@ -1,0 +1,16 @@
+1001 Adam Johnson B0085 8
+1002 John Smith C8763 8
+1003 Jane Washington A2043 8
+1003 Jane Washington Y63 8
+1005 Mary Miller A2043 3
+
+1001 Adam Johnson B0085 8
+1001 Adam Johnson C8763 8
+
+1003 Jane Washington A2043 8
+1005 Mary Miller A2043 3
+
+1003 Jane Washington A2043 8
+1003 Jane Washington X87 8
+1003 Jane Washington Y63 8
+

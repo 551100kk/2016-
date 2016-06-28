@@ -1,0 +1,13 @@
+12
+ADD 1002 John Smith C8763 8
+ADD 1003 Jane Washington Y63 8
+ADD 1001 Adam Johnson B0085 8
+ADD 1003 Jane Washington A2043 8
+ADD 1005 Mary Miller A2043 3
+PRINT
+ADD 1001 Adam Johnson C8763 8
+ADD 1004 Eric Page D6630 5
+ADD 1003 Jane Washington X87 8
+ID 1001
+JOBID A2043
+NAME Jane Washington
